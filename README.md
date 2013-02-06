@@ -1,7 +1,10 @@
 MADD-project
 ============
 
-Mike
-Andy
-Dan
-Dan
+Team
+----
+
+* Mike - Environment modeller, AI programmer
+* Andy - Character Modeller
+* Dan - Mapping and Environment Programmer
+* Dan -
