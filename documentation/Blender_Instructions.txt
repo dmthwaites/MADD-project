@@ -1,0 +1,48 @@
+Middle Mouse - rotate view around focal point
+num pad . - set focal point to selected object
+Scroll - zoom
+tab with object selected to toggle between modes
+Shift-middle mouse - pan around
+Ctrl-middle mouse - zoom
+
+
+OBJECT MODE
+
+Right click to select
+Right-Shift to select multiple
+A toggles select all
+G to grab and move - left to confirm
+S to scale  - left to confirm
+R to rotate - left to confirm
+7 num pad top perspective
+5 num pad top orthagraphic
+1 num pad frnt
+3 num pad right
+ctrl 7  num pad bottom
+ctrl 1 num pad back
+ctrl 3 num pad left
+S + Middle Mouse to scale 1 axis only
+0 num pad camera view point
+. num pad to focus on selected object
+
+
+EDIT MODE
+
+Has Vertex, Edge, & Face Modes
+
+A select all vertices
+right click to select single vertices
+right click + shift to select multiple vertices
+B box select mode - only selects visible vertices unless 'limit selection to visible' checked
+Z toggle transparency
+Select four vertices around an area to edit area
+
+	CUT
+	Ctrl - R Select cut position
+	Num pad 1-9 select number of cuts
+	Left click - confirm
+
+	EXTRUSIONS 
+	Select one face
+	e - move it
+	Left click - confirm
